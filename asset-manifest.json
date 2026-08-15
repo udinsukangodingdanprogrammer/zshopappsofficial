@@ -1,0 +1,526 @@
+{
+  "generated": "2026-08-14",
+  "file_count": 104,
+  "files": [
+    {
+      "path": ".github/workflows/static.yml",
+      "bytes": 1250,
+      "sha256": "f2d965580744ee9ee893f4f5de6017da9d55a5850b86fc4c47dc138db7b8bcb4"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/audio/beauty-and-a-beat.mp3",
+      "bytes": 4142076,
+      "sha256": "dcfe75d2bc3e2563d03c87ee5c4e1026f0bc3494fae13c6523b4326ae8f623d7"
+    },
+    {
+      "path": "assets/audio/die-with-a-smile.mp3",
+      "bytes": 4910725,
+      "sha256": "87afc9a69c270dc5cc20d325da9968a4da4ca41dd8e71dad8ec78eebf392ccab"
+    },
+    {
+      "path": "assets/audio/duvet.mp3",
+      "bytes": 3393871,
+      "sha256": "ce1fd77c59ecb8d06a90ac8a3d877b5e0cda1e8505e8504b8fba59bf3b00ebdb"
+    },
+    {
+      "path": "assets/audio/garam-dan-madu.mp3",
+      "bytes": 3250786,
+      "sha256": "cd9e3cedd258dc2be7b4bd28d6b9b22942cc8cd27a5f484620343261220d8bfe"
+    },
+    {
+      "path": "assets/audio/kicau.mp3",
+      "bytes": 3584878,
+      "sha256": "0607dfb5609ec8bc4803559e5e99f73e181cc2d69604eaa6dafc250f2a14545f"
+    },
+    {
+      "path": "assets/audio/lesung-pipi.mp3",
+      "bytes": 3923024,
+      "sha256": "449fd2d99e18834919a8ac349a8ae6866e2858fa7e00cb4e201acadaf76b708c"
+    },
+    {
+      "path": "assets/files/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/files/site.webmanifest",
+      "bytes": 555,
+      "sha256": "266eb694cce5a03b65c69f3ba48ef4a7c735814a8e5383563178a12ff67f01ca"
+    },
+    {
+      "path": "assets/images/extensions/egift-educational-1bulan.jpeg",
+      "bytes": 171448,
+      "sha256": "299d9da24ae4e291172eec88ead7bd89674fc2627470edfccb5ec6a560bdc3ba"
+    },
+    {
+      "path": "assets/images/extensions/egift-educational-3bulan.jpeg",
+      "bytes": 175606,
+      "sha256": "f45776a2c1987d8d59382512df5f0d7a707413983f8f013607fd832ddedc95c7"
+    },
+    {
+      "path": "assets/images/extensions/egift-educational-6bulan.jpeg",
+      "bytes": 179105,
+      "sha256": "a26241626b8ebf912c5b8a0e6ea8d310d60d29635ef6b23f85c849c5dd355519"
+    },
+    {
+      "path": "assets/images/extensions/egift-exclusift-1bulan.jpeg",
+      "bytes": 113686,
+      "sha256": "72d2525d621ca94101e26ad955d26a599624dee64f374798dc43912804b19b8e"
+    },
+    {
+      "path": "assets/images/extensions/egift-exclusift-3bulan.jpeg",
+      "bytes": 117435,
+      "sha256": "238161b36e02853068720859d7e29d92ae43880985d2ddb9705fda10d4f7d7fe"
+    },
+    {
+      "path": "assets/images/extensions/egift-exclusift-6bulan.jpeg",
+      "bytes": 117792,
+      "sha256": "1dcbf4c5c9f44f4743c08a91dec3e3655b969101e5dffce94521df48b152ea14"
+    },
+    {
+      "path": "assets/images/extensions/egift-premium-1bulan.jpeg",
+      "bytes": 97788,
+      "sha256": "c3fa6e09bc44a7dc28d740c1817097d0befa03e6a24dd24b42e7d8f71dfbb3c6"
+    },
+    {
+      "path": "assets/images/extensions/egift-premium-3bulan.jpeg",
+      "bytes": 98129,
+      "sha256": "495c868f112d147a79c572263105231204b3df8b2e56c8056dad35cc437260b0"
+    },
+    {
+      "path": "assets/images/extensions/egift-premium-6bulan.jpeg",
+      "bytes": 101407,
+      "sha256": "ead2f755cdd20a987c6a7c0ae211ce47f4d661fd5ca5bacb5bcd5a20862e985e"
+    },
+    {
+      "path": "assets/images/extensions/manifest.json",
+      "bytes": 4188,
+      "sha256": "7d017053f7f896af528dc10b558965f4b90b997169a1a7b7116be80f9cbc18e0"
+    },
+    {
+      "path": "assets/images/extensions/zshopapps-card-phantom-1bulan.jpeg",
+      "bytes": 150052,
+      "sha256": "a5e613caef84b7dda9c563a43bff682d4695832388f226f9060483144daea129"
+    },
+    {
+      "path": "assets/images/extensions/zshopapps-card-phantom-3bulan.jpeg",
+      "bytes": 147704,
+      "sha256": "c6102409c51f20e6390f43115b30e7886502b657aaa7f98b2a8d085061a1b13a"
+    },
+    {
+      "path": "assets/images/extensions/zshopapps-card-phantom-5bulan.jpeg",
+      "bytes": 147227,
+      "sha256": "5d3c229c38a749231e718437083907cff1669ea425a9c4e1cda668509cd42168"
+    },
+    {
+      "path": "assets/images/extensions/zshopapps-card-premium-1bulan.jpeg",
+      "bytes": 166675,
+      "sha256": "5f3d81fc7cbdfa8fcb32834557c227a2e18b1ac9a0f60f2c6f7fae198ff12a99"
+    },
+    {
+      "path": "assets/images/extensions/zshopapps-card-premium-pro-1bulan.jpeg",
+      "bytes": 99656,
+      "sha256": "8f558ecd0c2530cab3f061bd218ccf8531036ce3449c9dfb4962ea08f999d710"
+    },
+    {
+      "path": "assets/images/extensions/zshopapps-card-premium-pro-3bulan.jpeg",
+      "bytes": 102710,
+      "sha256": "d5cacae4f2ae00ff010fa3729dc6926818008a42ecbf54be45be58546d32f338"
+    },
+    {
+      "path": "assets/images/image-001-1b7cca4a.png",
+      "bytes": 2743,
+      "sha256": "1b7cca4a9ffafef7be084939a13f96a61316c66167204c1dfb70a17abf5cf2f8"
+    },
+    {
+      "path": "assets/images/image-002-dbda3f88.png",
+      "bytes": 5066,
+      "sha256": "991b07bb239511c732d5b8106fdeb6f9784cc396c3b56aed760b0fe668c1e477"
+    },
+    {
+      "path": "assets/images/image-003-5f1713f4.png",
+      "bytes": 715822,
+      "sha256": "314fe2d575c65ff945b3e52b6c708cfe26d25e69b29271fc727643e25e1529c9"
+    },
+    {
+      "path": "assets/images/image-004-8770e308.png",
+      "bytes": 694765,
+      "sha256": "265a1fbadb0b69390e14e60007ef7cecb4d5af8695f46dd399f8be9fd0ae0a55"
+    },
+    {
+      "path": "assets/images/image-005-33c1a29b.png",
+      "bytes": 10686,
+      "sha256": "33c1a29b9412770f8254fc42e89b903ed3dc03e11ecfc5959560a1db9f94110a"
+    },
+    {
+      "path": "assets/images/image-006-8937e6fa.png",
+      "bytes": 879457,
+      "sha256": "210693499769289d96d1e5bf828f0f8d0df4b7ae9ccb4ecc810f52c640796946"
+    },
+    {
+      "path": "assets/images/image-007-25fae626.png",
+      "bytes": 140833,
+      "sha256": "263811794803aa17997ef5851beb33baca0341a7917f1d2aeff4f6e6bcaa4e4f"
+    },
+    {
+      "path": "assets/images/image-008-6c1b3a0b.png",
+      "bytes": 231675,
+      "sha256": "a77e52aeb786009c660961e9791b5adb25725dbe67438545f0b53ed588b8039d"
+    },
+    {
+      "path": "assets/images/image-009-941d70ab.png",
+      "bytes": 19675,
+      "sha256": "c82ac0a565c4ebe2f91fd0d039f09899f344217a9cafdc802f12d2c85a675702"
+    },
+    {
+      "path": "assets/images/image-011-799ec793.png",
+      "bytes": 53232,
+      "sha256": "9639faf7a7299276fc96abd62de8a92d868deb47293fdb827d7173d117be08bf"
+    },
+    {
+      "path": "assets/images/image-012-173120ec.png",
+      "bytes": 1583,
+      "sha256": "ae78a69b5803cea7ee02cdd2d1a9db1fda90e982af1eeb456ba0708d1c96d2cc"
+    },
+    {
+      "path": "assets/images/image-013-d26b753d.png",
+      "bytes": 3547,
+      "sha256": "230f65464593bcbb375ba08805d1173049b917f83429f4faa24ae64e05dcdb8b"
+    },
+    {
+      "path": "assets/images/image-014-b6c5e85a.png",
+      "bytes": 4094,
+      "sha256": "6d1123cb9d9d747c3e9dace74b32465d142abf846a4bfca1c243801354c389d2"
+    },
+    {
+      "path": "assets/images/image-015-aaed1f8c.png",
+      "bytes": 2387,
+      "sha256": "33057c3e79808ba805796f996d725da673dfb15036608f8879a12a00de35b8a8"
+    },
+    {
+      "path": "assets/images/image-016-2ce787c4.png",
+      "bytes": 5106,
+      "sha256": "5dacda949668ccdc0ff346768afb9ad73a71706d576bace12e2891f8cbe33843"
+    },
+    {
+      "path": "assets/images/image-017-fad29d99.png",
+      "bytes": 3476,
+      "sha256": "9eeb1c552a282ddffa3b778578c5d0a65b2acff22f67b260253922a78c5396bc"
+    },
+    {
+      "path": "assets/images/image-018-56dd4558.png",
+      "bytes": 7375,
+      "sha256": "5883f083206a46a30a10fa0cdfb07df803c78243552e39a2966cf7ab12b739f3"
+    },
+    {
+      "path": "assets/images/image-019-aa3a9729.png",
+      "bytes": 31160,
+      "sha256": "35edf8058d05f09d9e6fccae11b64b2ba2c264dfbf1e7b566847cadec77e89c2"
+    },
+    {
+      "path": "assets/images/image-020-fa01ffa1.png",
+      "bytes": 27021,
+      "sha256": "bd29dd9b02c38d48b1591c6b36c15f9213b51d687ab1b0506d6f1df7a26e2232"
+    },
+    {
+      "path": "assets/images/image-021-23e8445a.png",
+      "bytes": 13438,
+      "sha256": "05258ff9578599cf57b3260070c97bca290ce8fe84085c8e1e54072330fb9409"
+    },
+    {
+      "path": "assets/images/image-022-18ccc887.png",
+      "bytes": 34208,
+      "sha256": "f98147b6100d7a3604839e4d475cb140965de371bbbd61f59a5ef37a1b39a75b"
+    },
+    {
+      "path": "assets/images/image-023-a0d9c8c3.png",
+      "bytes": 20398,
+      "sha256": "616b77d4b409d9769ed944689b6ba0482ef726f8eb48c92bba62205ae28ea875"
+    },
+    {
+      "path": "assets/images/image-024-05cb03df.png",
+      "bytes": 36979,
+      "sha256": "cbb21977855fbe6f3ac9c20ee2da50701bbe121bd23a133fc12b56a5de336c39"
+    },
+    {
+      "path": "assets/images/image-025-6b06e251.png",
+      "bytes": 33337,
+      "sha256": "7259e7aa547f398d203e11409e4ee245bd7a92af0c6d8d61556ee606766c4752"
+    },
+    {
+      "path": "assets/images/image-026-bc109273.png",
+      "bytes": 30091,
+      "sha256": "150bf839a53c71904366372e94d9cae33ce0cabb695328059973c63a8fa12da4"
+    },
+    {
+      "path": "assets/images/image-027-053e8d91.png",
+      "bytes": 84016,
+      "sha256": "262838bf6a0952c14457d02902674705a4904e9919f5b909177bb55142571c0f"
+    },
+    {
+      "path": "assets/images/image-028-6ef3b243.png",
+      "bytes": 58137,
+      "sha256": "9b5aad6e1d9604fb93734981fed5c45aa1c4b3ccae25b98d66ee1261c411e54c"
+    },
+    {
+      "path": "assets/images/image-029-a7cae9d4.png",
+      "bytes": 98240,
+      "sha256": "590a3ca910db3151f5bd769201b531e319e456c5e465ca80d1d4962a9d4d15a8"
+    },
+    {
+      "path": "assets/images/image-030-ed62534f.png",
+      "bytes": 77499,
+      "sha256": "4ae674a684008b226b49695c544fce6d0ca0d14be86dde037a86858c2f6623a1"
+    },
+    {
+      "path": "assets/images/image-031-d6648a65.png",
+      "bytes": 52594,
+      "sha256": "23bd39dc275ad523432d79bda59ef0ebb7e2a02abaee903bc4311ca084fba88f"
+    },
+    {
+      "path": "assets/images/image-032-de1df0fa.png",
+      "bytes": 41281,
+      "sha256": "171b848dca63895e7c79240201b0a385f0e73304b7302e0a3b0432f6960f6c91"
+    },
+    {
+      "path": "assets/images/image-033-b4d2525f.png",
+      "bytes": 45845,
+      "sha256": "d34739450e9993168a949464e5422ad665cee4652b79d9875606d121d6a62c45"
+    },
+    {
+      "path": "assets/images/image-034-7d00a8bb.png",
+      "bytes": 37518,
+      "sha256": "0208fe6095270f6fafe3d435cc77064a9fa93e47875879f2e846da98c0ea9f37"
+    },
+    {
+      "path": "assets/images/image-035-b0224af9.png",
+      "bytes": 46629,
+      "sha256": "6805504614d839ec9bea33ab7432e5a8982fd47a2de165bf07af16438eb52201"
+    },
+    {
+      "path": "assets/images/image-036-bf7f6ef5.png",
+      "bytes": 33348,
+      "sha256": "b17bc363fc492bf73ec8a65c4b39295437426b49bc9f046446b2bcaa02101e0e"
+    },
+    {
+      "path": "assets/images/image-037-d89ba3ce.png",
+      "bytes": 34887,
+      "sha256": "a6115243dec812a03ada25f3691e810b12aba4ece1325fdfab2f50a2acdc9923"
+    },
+    {
+      "path": "assets/images/image-038-9a31f5a2.png",
+      "bytes": 58239,
+      "sha256": "300bfa5d308b27c010e4f9f5142488f91e9d628c21bc7105a273e222f486c7b5"
+    },
+    {
+      "path": "assets/images/image-039-1510f090.png",
+      "bytes": 42906,
+      "sha256": "bf434ba59d3064f06308674dcdb33cc537f786eba9a3acd0d8c487cf2430a8be"
+    },
+    {
+      "path": "assets/images/image-040-988588bc.png",
+      "bytes": 38382,
+      "sha256": "370348560bae5123dfcc9e31e956db20ab210add17b91ef8548051b410868d93"
+    },
+    {
+      "path": "assets/images/image-041-1858a6f3.png",
+      "bytes": 44255,
+      "sha256": "00476433f64909d5aaa96c2c772f491176e3fec8da60265cbc30c79f16a3867b"
+    },
+    {
+      "path": "assets/images/image-042-1db49167.png",
+      "bytes": 54027,
+      "sha256": "6e306f4d64048ca521fffe31a6943da91aa91fda5d92f1ab40269456758d43c6"
+    },
+    {
+      "path": "assets/images/image-043-57051539.png",
+      "bytes": 41793,
+      "sha256": "c12f495d7526bac99312627acd7c104faf215079acd4b22b8425175846346956"
+    },
+    {
+      "path": "assets/images/image-044-e142f392.png",
+      "bytes": 54629,
+      "sha256": "a8cac061b7ec4ad2cd093847c0393a8d39685bcaa3e00fc28ff8497892515da7"
+    },
+    {
+      "path": "assets/images/image-045-c5913c10.png",
+      "bytes": 50831,
+      "sha256": "4144cedfa017face4b41ca56c89d38ad78c0bb720108c4e0ec1feca3623b852f"
+    },
+    {
+      "path": "assets/images/image-046-5cd054a2.png",
+      "bytes": 49415,
+      "sha256": "003ac74a5aa748d38e9417ab121ff8da92f8d58015424020d4d5e2bf3de2c1cb"
+    },
+    {
+      "path": "assets/images/image-047-6964e8e9.png",
+      "bytes": 49799,
+      "sha256": "3402ef1df9a8458e807667a8555f2592fc43f8c7ee56f85576c70efc6ca84b90"
+    },
+    {
+      "path": "assets/images/image-048-da904b6a.png",
+      "bytes": 32155,
+      "sha256": "d2b1a0202075c383d7bfa590a3648025be65b88d77042c6b3ef6fd3c95687a37"
+    },
+    {
+      "path": "assets/images/image-049-34e69866.png",
+      "bytes": 42731,
+      "sha256": "d8c39912cabdc048c11dfd6a98358183199262fc9b2d4681dddb776c15f2e9ce"
+    },
+    {
+      "path": "assets/images/image-050-230fab59.png",
+      "bytes": 55326,
+      "sha256": "f7cce391331104965b60ca1238cc9247fc433800088ff4ad8a0428d21988ad8a"
+    },
+    {
+      "path": "assets/images/image-051-40e8b8d3.png",
+      "bytes": 44513,
+      "sha256": "70b56a56ec374dad7ae8e11c416fb4c9c07278b565226253fd37cfcee5b88bd7"
+    },
+    {
+      "path": "assets/images/image-052-f031569e.png",
+      "bytes": 342984,
+      "sha256": "fcd9b4f5fac86adf77915c40d5763f5323748626d5ec7e147f9fa957eb8ef3b3"
+    },
+    {
+      "path": "assets/images/image-053-563cf6d9.png",
+      "bytes": 925780,
+      "sha256": "563cf6d9c4a6f039cc302330dcc0088fa778cbb3a8b456ea401785124c2a2856"
+    },
+    {
+      "path": "assets/images/image-054-968841fd.png",
+      "bytes": 872197,
+      "sha256": "968841fd3359a0c97c9dd23a24ef93bc9cbc5504d2a05fe9bd5d1128c3f1fb59"
+    },
+    {
+      "path": "assets/images/image-055-0776e738.png",
+      "bytes": 991480,
+      "sha256": "0776e7381bc4a8223384428ed198bbdd2dc00d6f4df54ac4025ab149729435c7"
+    },
+    {
+      "path": "assets/images/image-056-dbca5391.png",
+      "bytes": 478503,
+      "sha256": "35736c527feefb5e1f4dc7416710cd242821212632bea2cf330b54e91fc88c8e"
+    },
+    {
+      "path": "assets/images/image-057-eb8278f2.png",
+      "bytes": 454168,
+      "sha256": "17b370f05615ebe32b75ddcacb112d9278a7344321a01956301b4acfd6000f10"
+    },
+    {
+      "path": "assets/images/portal-lifetime/preflix-app-prem-screen.png",
+      "bytes": 148151,
+      "sha256": "26777b10240f07765944083506b666ba0c572e1ce5d51537669f6d38d94a0744"
+    },
+    {
+      "path": "assets/images/portal-lifetime/preflix-feature-showcase.png",
+      "bytes": 306779,
+      "sha256": "2ac0af158c6a533e9af892616b04c93d9738410a25992cc2f54b8475c04abd11"
+    },
+    {
+      "path": "assets/images/portal-lifetime/preflix-logo.png",
+      "bytes": 377632,
+      "sha256": "8a8e23300100e56ec3de755dec7ed40f08dcf5e5512c43f89b7f5fc2ae777a8b"
+    },
+    {
+      "path": "assets/images/portal-lifetime/preflix-menu-digital.png",
+      "bytes": 182105,
+      "sha256": "8b16f80a638dbd72c589baaa45c83c15fb0a35c3ff9bb388043c38bdcfe48425"
+    },
+    {
+      "path": "assets/images/portal-lifetime/preflix-menu-services.png",
+      "bytes": 144085,
+      "sha256": "cfabbbfe9ad0f8b824ba284f03fe9e2d034bc03aad0322d8bb39f3faf2018818"
+    },
+    {
+      "path": "assets/images/preflix-app-prem-screen.png",
+      "bytes": 148151,
+      "sha256": "26777b10240f07765944083506b666ba0c572e1ce5d51537669f6d38d94a0744"
+    },
+    {
+      "path": "assets/images/preflix-feature-showcase.png",
+      "bytes": 306779,
+      "sha256": "2ac0af158c6a533e9af892616b04c93d9738410a25992cc2f54b8475c04abd11"
+    },
+    {
+      "path": "assets/images/preflix-logo.png",
+      "bytes": 377632,
+      "sha256": "8a8e23300100e56ec3de755dec7ed40f08dcf5e5512c43f89b7f5fc2ae777a8b"
+    },
+    {
+      "path": "assets/images/preflix-menu-digital.png",
+      "bytes": 182105,
+      "sha256": "8b16f80a638dbd72c589baaa45c83c15fb0a35c3ff9bb388043c38bdcfe48425"
+    },
+    {
+      "path": "assets/images/preflix-menu-services.png",
+      "bytes": 144085,
+      "sha256": "cfabbbfe9ad0f8b824ba284f03fe9e2d034bc03aad0322d8bb39f3faf2018818"
+    },
+    {
+      "path": "CHANGELOG-2026-08-12.txt",
+      "bytes": 2095,
+      "sha256": "4fece1859b797f5446585cf56bc8d0a9c92d3c419f1ff1325459a706e4899471"
+    },
+    {
+      "path": "favicon.ico",
+      "bytes": 7548,
+      "sha256": "e1649d730332ee2304d31dbf5f1ef5bb83322bdb8bf5275320d42bdd9f584749"
+    },
+    {
+      "path": "index.html",
+      "bytes": 714539,
+      "sha256": "40e003a000ab8f114a3fd4f0edaf0f2e4fac78466876651618a1c60e178bff8b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 10313,
+      "sha256": "070ec69db9ae7bfb01f1fbd90e88aaa46f8ee4c892f6c9a3649760cedd40aa2b"
+    },
+    {
+      "path": "robots.txt",
+      "bytes": 77,
+      "sha256": "4d44ec73370d201bdfd9d7d84e49bbf4df16be10367d26931767fa8728b0c25b"
+    },
+    {
+      "path": "sitemap.xml",
+      "bytes": 251,
+      "sha256": "13d9904aeb729ad4867f5c18e5207d5959ec7220a6a6942ff47327384bb52098"
+    },
+    {
+      "path": "zshopapps-icon-192.png",
+      "bytes": 27978,
+      "sha256": "7d47caa04eb9f1b2b20e003bc675143aa95dc5973c81257f8cdde0674e10667d"
+    },
+    {
+      "path": "zshopapps-icon-32.png",
+      "bytes": 2376,
+      "sha256": "657d26e1a238b2e6ee10cbdc7fc0f9136bedf9af049d75037b72624ff090ca91"
+    },
+    {
+      "path": "zshopapps-icon-48.png",
+      "bytes": 4266,
+      "sha256": "cb35cf5f007d02529fda3da09596f8e215a273508dfe7422fad5e4bf3c09e7b0"
+    },
+    {
+      "path": "zshopapps-icon-512.png",
+      "bytes": 44278,
+      "sha256": "cb31568d92110f87ce3901bed1708d9000099aa1caf098bd6a814a1336d839ad"
+    },
+    {
+      "path": "zshopapps-icon-96.png",
+      "bytes": 11505,
+      "sha256": "e0ae4cd71cff77714dcee2d17db36ce9f66dd3d8fe5743b0f9090999d04da1e4"
+    },
+    {
+      "path": "zshopapps-social-preview.png",
+      "bytes": 144081,
+      "sha256": "fa3d4410be4cba1f30a13a87cff019a27316beef929532840ae616e150f12040"
+    }
+  ]
+}
