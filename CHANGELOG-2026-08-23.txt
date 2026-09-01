@@ -1,0 +1,31 @@
+ZSHOPAPPS UPDATE — 23 AUGUST 2026
+
+1. Katalog utama dikunci menjadi 20 aplikasi premium (bukan [21]).
+2. Preflix Lifetime tetap tersedia sebagai produk tambahan di luar hitungan 20 apps, tanpa merusak keranjang gabungan.
+3. SEO title, meta description, Open Graph, Twitter metadata, hero H1, dan ItemList schema diperbarui untuk fokus 20 apps premium.
+4. Ditambahkan tag biru bergaya social tag di bawah setiap aplikasi:
+   - tag nama/kategori app
+   - #zshopappsDigital
+   - #zshopapps
+5. Header/navbar dirapikan:
+   - label Gift Card dipendekkan
+   - Preflix Lifetime -> Preflix pada nav
+   - font menu diperkecil dan dipaksa tidak pecah per huruf
+   - teks brand ZSHOPAPPS diperkecil pada desktop
+   - profile pill disembunyikan pada desktop 1001–1280px agar menu muat
+6. Teks card katalog dipadatkan agar tetap terbaca pada desktop dan mobile.
+7. Counter katalog dinamis hanya menghitung 20 app; portal bisnis tidak ikut dihitung.
+
+UPDATE LANJUTAN — PAKET KATALOG + FONT HEADER
+8. Setiap 20 aplikasi premium utama sekarang memiliki tepat 20 pilihan paket/varian katalog (total 400 opsi pilihan pada 20 aplikasi).
+9. Harga lama yang sudah diberikan owner tetap dipertahankan. Opsi baru yang belum memiliki harga tidak dibuat-buat dan tampil sebagai "Hubungi Owner".
+10. Pilihan paket dibuat compact dengan grid 3 kolom dan area scroll agar 20 opsi tidak membuat card terlalu panjang, termasuk pada mobile.
+11. Label otomatis menampilkan "Pilih paket • 20 opsi".
+12. Font brand ZSHOPAPPS di header diperkecil lagi, termasuk breakpoint mobile 650px / 430px / 360px, agar nama brand tidak terlihat terlalu besar atau terpotong.
+13. Ditambahkan keterangan bahwa opsi tambahan merupakan variasi katalog ZSHOPAPPS; ketersediaan akhir tetap mengikuti platform/provider dan konfirmasi owner.
+
+UPDATE 30 PAKET PER APP
+- 20 aplikasi premium kini masing-masing memiliki 30 paket katalog (600 pilihan total).
+- Label "Pilih Paket • 20 Opsi" diubah dinamis menjadi "Pilih Paket • 30 Apps".
+- 10 paket tambahan per aplikasi memakai harga "Hubungi Owner" sampai harga dikonfirmasi.
+- Struktur grid/scroll paket dan font header ZSHOPAPPS tetap dipertahankan.

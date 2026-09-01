@@ -1,0 +1,25 @@
+ZSHOPAPPS — CHANGELOG 2026-08-29
+
+Scope
+- Extension 06 Naruto / Akatsuki commerce upgrade
+- Preflix Lifetime price correction
+- Language + currency display support
+- Zoom modal + secret gift code reveal
+- Lifetime table visual cleanup
+
+Changes
+1. Added a new "Extension 06 Naruto" storefront section with 5 packages:
+   - Paket Boruto — 1 Bulan — Rp95.000
+   - Paket Super Boruto — 1 Bulan — Rp180.000
+   - Paket Orochimaru — 3 Bulan — Rp230.000
+   - Paket Super Orochimaru — 3 Bulan — Rp450.000
+   - Paket Sasuke — 6 Bulan — Rp400.000
+2. Added menu entry for Akatsuki Extension in desktop and mobile navigation.
+3. Added global selectors for website language and estimated display currency.
+4. Added public FX fetch with localStorage fallback. Canonical checkout remains IDR/QRIS.
+5. Added zoomable showcase images and modal viewer.
+6. Added Extension 06 use-case copy, Q&A, and secret code reveal/copy UI.
+7. Changed all user-facing Preflix Lifetime prices from Rp309.000 to Rp300.000.
+8. Changed machine-readable Preflix price values from 309000 to 300000.
+9. Removed transparent/glass framing from the lifetime iOS/MacBook purchase table shell.
+10. Added deployable asset copies for Extension 06 showcase references under assets/images/extensions/.

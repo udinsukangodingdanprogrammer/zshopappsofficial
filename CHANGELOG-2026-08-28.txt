@@ -1,0 +1,24 @@
+ZSHOPAPPS BLUE BRAND UPDATE — 2026-08-28
+
+- Migrasi visual utama dari hijau/emas ke biru/cyan mengikuti logo baru.
+- Menambahkan logo ZSHOPAPPS baru dari aset yang diberikan pengguna.
+- Mengganti logo pada brand header dan drawer; foto Owner tetap hanya pada area profil agar tidak bentrok.
+- Mengganti opening loader klasik menjadi animasi logo biru/cyan dengan flare, light streak, wordmark, dan progress.
+- Memperbarui favicon serta ikon PWA 32/48/96/192/512 agar tidak memakai logo lama.
+- Memperbarui warna theme PWA ke navy/blue.
+- Memperbarui social preview Open Graph agar memakai logo dan palet biru baru.
+- Memperbarui strip animasi bagian atas dan bawah menjadi navy/blue-cyan penuh; menghapus sisa warna hijau/cokelat pada rel dan sleeper.
+- Menambahkan logo ZSHOPAPPS biru beranimasi glow/light-streak pada kedua strip, serta memperbaiki strip bawah agar benar-benar bergerak berlawanan arah dan menghormati prefers-reduced-motion.
+- Menyamakan animasi strip atas/bawah dengan video referensi: label biru rectangular dengan shine, rel/sleeper bersegmen cobalt→royal-blue→cyan yang mengalir, flare logo, dan arah gerak bawah terbalik.
+- Menambahkan tahap pendaftaran Preflix pada checkout: nama pembeli/pemilik, nama bisnis/toko, Nama Telegram, @username Telegram, jenis usaha, kebutuhan Telegram, dan konfirmasi kepemilikan akun.
+- Menambahkan validasi format username Telegram 5–32 karakter (huruf, angka, underscore, tidak diawali angka), normalisasi tanda @, serta preview link t.me pelanggan.
+- Memasukkan data pendaftaran Preflix otomatis ke pesan checkout dan pesan bukti pembayaran Telegram owner; data formulir disimpan lokal di perangkat untuk memudahkan pengisian ulang.
+- Menambahkan pengingat keamanan agar pelanggan tidak pernah memberikan password, OTP, kode login, atau recovery password Telegram.
+
+EXTENSION 04 — ZSHOPAPPS EXTENSION SANGATGACOR!!
+- Menambahkan section Extension 04 bergaya solid macOS/iOS tanpa bingkai transparan.
+- Menambahkan 5 paket editable: 7 Hari Rp25.000, 31 Hari Rp82.000, 92 Hari Rp157.000, 185 Hari Rp315.000, dan 370 Hari Rp590.000.
+- Tombol "Pilih Paket Ini" terhubung ke engine keranjang yang sudah ada dan mempertahankan label khusus saat kartu dirender.
+- Menambahkan alur Cara Beli Bertahap 5 langkah: Pilih Paket, Klik Beli Sekarang, Isi Data Pesanan, Lakukan Pembayaran, Akses Langsung.
+- Layout desktop menampilkan lima kartu; tablet/mobile memakai horizontal scroll + scroll snap agar kartu tidak terpotong.
+- Harga disimpan di data-plans-asia pada HTML agar mudah diedit kemudian.

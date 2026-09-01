@@ -1,0 +1,9 @@
+ZSHOPAPPS — PREFLIX TESTIMONI CUAN UPDATE — 2026-08-29
+
+Changes
+1. Removed the foreign-currency estimator UI from the global controls section.
+2. Kept the website language selector.
+3. Added a new ZSHOPAPPS Preflix real testimonial gallery using customer-supplied images.
+4. Added boxed labels over each testimonial photo.
+5. Added persuasive customer-facing copy and a wise quote block.
+6. Preserved the official Preflix price at Rp300.000.

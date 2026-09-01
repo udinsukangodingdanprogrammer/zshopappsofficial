@@ -1,0 +1,33 @@
+ZSHOPAPPS UPDATE — 31 AUGUST 2026
+
+1. PAYMENT
+- Added SeaBank bank-transfer payment alongside QRIS.
+- SeaBank account: 901297235411.
+- Account holder: Sutini.
+- SeaBank payment is available in the main payment area, direct purchase modal, cart checkout, Extension 04, and Extension 05.
+- QRIS remains available.
+- Added copy-account and copy-total controls where applicable.
+- Checkout/confirmation messages now include the selected payment method.
+- Payment verification remains manual by the owner.
+
+2. PREFLIX / EXTENSION 03
+- Preflix is labeled as Extension 03.
+- Enabled foreign-currency display selector: IDR, USD, SGD, MYR, EUR, GBP, JPY, AUD, THB.
+- Official payable amount remains displayed in IDR; foreign currency is an estimate/display conversion.
+
+3. LANGUAGE
+- Added/expanded translatable core content for Extensions 01–06.
+- Language options: Indonesian, English, Malay, Japanese, Chinese, Korean, Arabic, Spanish.
+
+4. ASSET
+- Added SeaBank logo at assets/images/seabank-logo.jpg.
+
+5. VALIDATION
+- Automated feature tests cover SeaBank payment, checkout messages, Preflix currency selector, Extension 01–06 translation hooks, and dedicated payment docks.
+
+6. FOLLOW SOSMED + EXTENSION 04/05 CART
+- Setelah pembelian selesai, modal ucapan menampilkan ajakan follow/like 6 sosmed & link resmi ZSHOPAPPS beserta doa/ucapan terima kasih.
+- Link Alternatif diperbarui ke https://linktr.ee/fanyyfanny84.
+- Extension 04: lima paket kini dapat ditambahkan ke keranjang gabungan; tombol paket diberi aksi keranjang dan Payment Dock memiliki tombol Buka Keranjang.
+- Extension 05: tiga paket kini memiliki tombol Tambah ke Keranjang dan terintegrasi ke keranjang gabungan; Payment Dock memiliki tombol Buka Keranjang.
+- Nama paket, durasi, harga IDR, dan status stok Unlimited dibawa ke ringkasan keranjang.

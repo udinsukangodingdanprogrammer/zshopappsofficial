@@ -1,0 +1,12 @@
+ZSHOPAPPS CODE CLEANUP — 2026-08-31
+
+Scope: structural cleanup only. No intentional product/price/payment/social/Extension 04/05 behavior changes.
+
+Changes:
+- Extracted 48 inline CSS blocks into 2 ordered CSS bundles.
+- Extracted 21 executable inline JavaScript blocks into feature files under assets/js/.
+- Kept JSON-LD and application/json data inline so structured data and playlist data remain available in the same document context.
+- Preserved Tailwind runtime position and CSS cascade split before/after Tailwind.
+- Rebased CSS image URLs after moving CSS to assets/css/.
+- Added CODE-MAINTENANCE.md with maintenance rules.
+- Regenerated asset-manifest.json after validation.

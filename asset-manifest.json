@@ -1,0 +1,645 @@
+{
+  "generated": "2026-08-31",
+  "files": {
+    ".github/workflows/static.yml": {
+      "sha256": "f2d965580744ee9ee893f4f5de6017da9d55a5850b86fc4c47dc138db7b8bcb4",
+      "bytes": 1250
+    },
+    ".nojekyll": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "CHANGELOG-2026-08-12.txt": {
+      "sha256": "4fece1859b797f5446585cf56bc8d0a9c92d3c419f1ff1325459a706e4899471",
+      "bytes": 2095
+    },
+    "CHANGELOG-2026-08-21.txt": {
+      "sha256": "b71b2d7ff320a54e591149eaebd18f8a5a517cd336261d02b63aed8912946111",
+      "bytes": 797
+    },
+    "CHANGELOG-2026-08-23.txt": {
+      "sha256": "fdb69a6fcb8542ea1b67e09951c19c195863ae01c7254a34e069c1e7de86be4d",
+      "bytes": 2158
+    },
+    "CHANGELOG-2026-08-28.txt": {
+      "sha256": "fa7829520ff6ed9b3c61fc66e9dd24ec77781d685c57db6a4fd2322f00a90fc7",
+      "bytes": 2559
+    },
+    "CHANGELOG-2026-08-29-PREFLIX-REGISTRATION-21.txt": {
+      "sha256": "612b60c1c2cc29d18e931d85326a3a6590b980a16a11c9b7715a72120b900c7b",
+      "bytes": 742
+    },
+    "CHANGELOG-2026-08-29-PREFLIX-TESTIMONI.txt": {
+      "sha256": "feab95bdda7e3463aeb28a21b7a87895fc1243235f34006992da883f97991310",
+      "bytes": 446
+    },
+    "CHANGELOG-2026-08-29.txt": {
+      "sha256": "70b20590edbedfb68b81bed65a588e6dd8732de7477cf455d55eb224dd672c5d",
+      "bytes": 1275
+    },
+    "CHANGELOG-2026-08-31-CODE-CLEANUP.txt": {
+      "sha256": "364a158a179da2ee50943586a2a8f7e45c81d19cfdc378f6a936ef588e5ad3f9",
+      "bytes": 685
+    },
+    "CHANGELOG-2026-08-31-SEABANK-CURRENCY-LANGUAGE.txt": {
+      "sha256": "7ac0b52fecf78f016a1affe8cb0046aac8833c595a61bdff7b1db5934feda04f",
+      "bytes": 1819
+    },
+    "CODE-MAINTENANCE.md": {
+      "sha256": "d6b66686e33e8ed6728ba9e332c8460e9b8fd44462ac9240f08f42554bca5b10",
+      "bytes": 1797
+    },
+    "README.md": {
+      "sha256": "abf16797d0d1727a80d3dd017d81570ac5be635d8447253905dd110698289b9a",
+      "bytes": 13738
+    },
+    "assets/audio/beauty-and-a-beat.mp3": {
+      "sha256": "dcfe75d2bc3e2563d03c87ee5c4e1026f0bc3494fae13c6523b4326ae8f623d7",
+      "bytes": 4142076
+    },
+    "assets/audio/die-with-a-smile.mp3": {
+      "sha256": "87afc9a69c270dc5cc20d325da9968a4da4ca41dd8e71dad8ec78eebf392ccab",
+      "bytes": 4910725
+    },
+    "assets/audio/duvet.mp3": {
+      "sha256": "ce1fd77c59ecb8d06a90ac8a3d877b5e0cda1e8505e8504b8fba59bf3b00ebdb",
+      "bytes": 3393871
+    },
+    "assets/audio/garam-dan-madu.mp3": {
+      "sha256": "cd9e3cedd258dc2be7b4bd28d6b9b22942cc8cd27a5f484620343261220d8bfe",
+      "bytes": 3250786
+    },
+    "assets/audio/kicau.mp3": {
+      "sha256": "0607dfb5609ec8bc4803559e5e99f73e181cc2d69604eaa6dafc250f2a14545f",
+      "bytes": 3584878
+    },
+    "assets/audio/lesung-pipi.mp3": {
+      "sha256": "449fd2d99e18834919a8ac349a8ae6866e2858fa7e00cb4e201acadaf76b708c",
+      "bytes": 3923024
+    },
+    "assets/css/zshopapps-core.css": {
+      "sha256": "c7cc7f058dc53dfcd301c4c4e09664adb5e9c5d73d47fddd77bfa5d22a146fc5",
+      "bytes": 250860
+    },
+    "assets/css/zshopapps-overrides.css": {
+      "sha256": "239fab08011346cf505b9fc2639c0d944c9fec2f33fe8aa5b5020420c31aebaa",
+      "bytes": 109570
+    },
+    "assets/files/.gitkeep": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "assets/files/site.webmanifest": {
+      "sha256": "0f3b3d125a632ca6167402e3c8e2b0d2e39078921bde31580c68887e0f5e0dd1",
+      "bytes": 555
+    },
+    "assets/images/extensions/egift-educational-1bulan.jpeg": {
+      "sha256": "299d9da24ae4e291172eec88ead7bd89674fc2627470edfccb5ec6a560bdc3ba",
+      "bytes": 171448
+    },
+    "assets/images/extensions/egift-educational-3bulan.jpeg": {
+      "sha256": "f45776a2c1987d8d59382512df5f0d7a707413983f8f013607fd832ddedc95c7",
+      "bytes": 175606
+    },
+    "assets/images/extensions/egift-educational-6bulan.jpeg": {
+      "sha256": "a26241626b8ebf912c5b8a0e6ea8d310d60d29635ef6b23f85c849c5dd355519",
+      "bytes": 179105
+    },
+    "assets/images/extensions/egift-exclusift-1bulan.jpeg": {
+      "sha256": "72d2525d621ca94101e26ad955d26a599624dee64f374798dc43912804b19b8e",
+      "bytes": 113686
+    },
+    "assets/images/extensions/egift-exclusift-3bulan.jpeg": {
+      "sha256": "238161b36e02853068720859d7e29d92ae43880985d2ddb9705fda10d4f7d7fe",
+      "bytes": 117435
+    },
+    "assets/images/extensions/egift-exclusift-6bulan.jpeg": {
+      "sha256": "1dcbf4c5c9f44f4743c08a91dec3e3655b969101e5dffce94521df48b152ea14",
+      "bytes": 117792
+    },
+    "assets/images/extensions/egift-premium-1bulan.jpeg": {
+      "sha256": "c3fa6e09bc44a7dc28d740c1817097d0befa03e6a24dd24b42e7d8f71dfbb3c6",
+      "bytes": 97788
+    },
+    "assets/images/extensions/egift-premium-3bulan.jpeg": {
+      "sha256": "495c868f112d147a79c572263105231204b3df8b2e56c8056dad35cc437260b0",
+      "bytes": 98129
+    },
+    "assets/images/extensions/egift-premium-6bulan.jpeg": {
+      "sha256": "ead2f755cdd20a987c6a7c0ae211ce47f4d661fd5ca5bacb5bcd5a20862e985e",
+      "bytes": 101407
+    },
+    "assets/images/extensions/ext06-naruto-main.jpg": {
+      "sha256": "ae841ba4958cc6ee096cd97c468ad367a7ada28490c68cb6853cd158ef5c4f5f",
+      "bytes": 313337
+    },
+    "assets/images/extensions/ext06-naruto-packages.jpg": {
+      "sha256": "4ace1ad5295a4d8ef375179de9142b078703c4bf4686a7b1d230fec8da7bd11d",
+      "bytes": 276020
+    },
+    "assets/images/extensions/ext06-preflix-hero.png": {
+      "sha256": "060e3fe32502f81373c4f9f82b270fdb69c72d428656f08de718f726ece79535",
+      "bytes": 328011
+    },
+    "assets/images/extensions/ext06-preflix-mobile.png": {
+      "sha256": "9e6c2751ad15b2e639334a16135ebbcba49f002c377c44b5df5a181ddfe47a6f",
+      "bytes": 170665
+    },
+    "assets/images/extensions/ext06-preflix-table.png": {
+      "sha256": "bab1a4114c619045a2327039f69a311bc6723084c3f58040aab3888c2f3a8530",
+      "bytes": 303296
+    },
+    "assets/images/extensions/manifest.json": {
+      "sha256": "7d017053f7f896af528dc10b558965f4b90b997169a1a7b7116be80f9cbc18e0",
+      "bytes": 4188
+    },
+    "assets/images/extensions/testimonial-extension-01.png": {
+      "sha256": "a1eb49118704be1359b3f947ac56492a9d65266446e0a1261db05e9cd7368819",
+      "bytes": 57465
+    },
+    "assets/images/extensions/testimonial-extension-02.png": {
+      "sha256": "a1eb49118704be1359b3f947ac56492a9d65266446e0a1261db05e9cd7368819",
+      "bytes": 57465
+    },
+    "assets/images/extensions/zshopapps-card-phantom-1bulan.jpeg": {
+      "sha256": "a5e613caef84b7dda9c563a43bff682d4695832388f226f9060483144daea129",
+      "bytes": 150052
+    },
+    "assets/images/extensions/zshopapps-card-phantom-3bulan.jpeg": {
+      "sha256": "c6102409c51f20e6390f43115b30e7886502b657aaa7f98b2a8d085061a1b13a",
+      "bytes": 147704
+    },
+    "assets/images/extensions/zshopapps-card-phantom-5bulan.jpeg": {
+      "sha256": "5d3c229c38a749231e718437083907cff1669ea425a9c4e1cda668509cd42168",
+      "bytes": 147227
+    },
+    "assets/images/extensions/zshopapps-card-premium-1bulan.jpeg": {
+      "sha256": "5f3d81fc7cbdfa8fcb32834557c227a2e18b1ac9a0f60f2c6f7fae198ff12a99",
+      "bytes": 166675
+    },
+    "assets/images/extensions/zshopapps-card-premium-pro-1bulan.jpeg": {
+      "sha256": "8f558ecd0c2530cab3f061bd218ccf8531036ce3449c9dfb4962ea08f999d710",
+      "bytes": 99656
+    },
+    "assets/images/extensions/zshopapps-card-premium-pro-3bulan.jpeg": {
+      "sha256": "d5cacae4f2ae00ff010fa3729dc6926818008a42ecbf54be45be58546d32f338",
+      "bytes": 102710
+    },
+    "assets/images/extensions/zshopapps-extension04-sangatgacor-update.jpeg": {
+      "sha256": "4b0c2bec855e97fa4aaa977d85f4eff5220e0b9a27b42ae20dc18b06723f7aa4",
+      "bytes": 163731
+    },
+    "assets/images/extensions/zshopapps-supermanis-ai-premium.jpg": {
+      "sha256": "07b809730a5dfd0d47c3649118f356ffd441716ad8429b6e0d9b299adbc055af",
+      "bytes": 210386
+    },
+    "assets/images/extensions/zshopapps-supermanis-apps.jpg": {
+      "sha256": "b2e1608f85bf7a04e796cc20d5bbd71b21f6c579a5a2abb7431d048fc4f41fa3",
+      "bytes": 251651
+    },
+    "assets/images/extensions/zshopapps-supermanis-pricing.jpg": {
+      "sha256": "c3eb12b4d6467102de8be8db751147dad2a17041bfe6383d4d58bc38ffbe6601",
+      "bytes": 345881
+    },
+    "assets/images/image-001-1b7cca4a.png": {
+      "sha256": "1b7cca4a9ffafef7be084939a13f96a61316c66167204c1dfb70a17abf5cf2f8",
+      "bytes": 2743
+    },
+    "assets/images/image-002-dbda3f88.png": {
+      "sha256": "991b07bb239511c732d5b8106fdeb6f9784cc396c3b56aed760b0fe668c1e477",
+      "bytes": 5066
+    },
+    "assets/images/image-003-5f1713f4.png": {
+      "sha256": "314fe2d575c65ff945b3e52b6c708cfe26d25e69b29271fc727643e25e1529c9",
+      "bytes": 715822
+    },
+    "assets/images/image-004-8770e308.png": {
+      "sha256": "265a1fbadb0b69390e14e60007ef7cecb4d5af8695f46dd399f8be9fd0ae0a55",
+      "bytes": 694765
+    },
+    "assets/images/image-005-33c1a29b.png": {
+      "sha256": "33c1a29b9412770f8254fc42e89b903ed3dc03e11ecfc5959560a1db9f94110a",
+      "bytes": 10686
+    },
+    "assets/images/image-006-8937e6fa.png": {
+      "sha256": "210693499769289d96d1e5bf828f0f8d0df4b7ae9ccb4ecc810f52c640796946",
+      "bytes": 879457
+    },
+    "assets/images/image-007-25fae626.png": {
+      "sha256": "263811794803aa17997ef5851beb33baca0341a7917f1d2aeff4f6e6bcaa4e4f",
+      "bytes": 140833
+    },
+    "assets/images/image-008-6c1b3a0b.png": {
+      "sha256": "a77e52aeb786009c660961e9791b5adb25725dbe67438545f0b53ed588b8039d",
+      "bytes": 231675
+    },
+    "assets/images/image-009-941d70ab.png": {
+      "sha256": "c82ac0a565c4ebe2f91fd0d039f09899f344217a9cafdc802f12d2c85a675702",
+      "bytes": 19675
+    },
+    "assets/images/image-011-799ec793.png": {
+      "sha256": "9639faf7a7299276fc96abd62de8a92d868deb47293fdb827d7173d117be08bf",
+      "bytes": 53232
+    },
+    "assets/images/image-012-173120ec.png": {
+      "sha256": "ae78a69b5803cea7ee02cdd2d1a9db1fda90e982af1eeb456ba0708d1c96d2cc",
+      "bytes": 1583
+    },
+    "assets/images/image-013-d26b753d.png": {
+      "sha256": "230f65464593bcbb375ba08805d1173049b917f83429f4faa24ae64e05dcdb8b",
+      "bytes": 3547
+    },
+    "assets/images/image-014-b6c5e85a.png": {
+      "sha256": "6d1123cb9d9d747c3e9dace74b32465d142abf846a4bfca1c243801354c389d2",
+      "bytes": 4094
+    },
+    "assets/images/image-015-aaed1f8c.png": {
+      "sha256": "33057c3e79808ba805796f996d725da673dfb15036608f8879a12a00de35b8a8",
+      "bytes": 2387
+    },
+    "assets/images/image-016-2ce787c4.png": {
+      "sha256": "5dacda949668ccdc0ff346768afb9ad73a71706d576bace12e2891f8cbe33843",
+      "bytes": 5106
+    },
+    "assets/images/image-017-fad29d99.png": {
+      "sha256": "9eeb1c552a282ddffa3b778578c5d0a65b2acff22f67b260253922a78c5396bc",
+      "bytes": 3476
+    },
+    "assets/images/image-018-56dd4558.png": {
+      "sha256": "5883f083206a46a30a10fa0cdfb07df803c78243552e39a2966cf7ab12b739f3",
+      "bytes": 7375
+    },
+    "assets/images/image-019-aa3a9729.png": {
+      "sha256": "35edf8058d05f09d9e6fccae11b64b2ba2c264dfbf1e7b566847cadec77e89c2",
+      "bytes": 31160
+    },
+    "assets/images/image-020-fa01ffa1.png": {
+      "sha256": "bd29dd9b02c38d48b1591c6b36c15f9213b51d687ab1b0506d6f1df7a26e2232",
+      "bytes": 27021
+    },
+    "assets/images/image-021-23e8445a.png": {
+      "sha256": "05258ff9578599cf57b3260070c97bca290ce8fe84085c8e1e54072330fb9409",
+      "bytes": 13438
+    },
+    "assets/images/image-022-18ccc887.png": {
+      "sha256": "f98147b6100d7a3604839e4d475cb140965de371bbbd61f59a5ef37a1b39a75b",
+      "bytes": 34208
+    },
+    "assets/images/image-023-a0d9c8c3.png": {
+      "sha256": "616b77d4b409d9769ed944689b6ba0482ef726f8eb48c92bba62205ae28ea875",
+      "bytes": 20398
+    },
+    "assets/images/image-024-05cb03df.png": {
+      "sha256": "cbb21977855fbe6f3ac9c20ee2da50701bbe121bd23a133fc12b56a5de336c39",
+      "bytes": 36979
+    },
+    "assets/images/image-025-6b06e251.png": {
+      "sha256": "7259e7aa547f398d203e11409e4ee245bd7a92af0c6d8d61556ee606766c4752",
+      "bytes": 33337
+    },
+    "assets/images/image-026-bc109273.png": {
+      "sha256": "150bf839a53c71904366372e94d9cae33ce0cabb695328059973c63a8fa12da4",
+      "bytes": 30091
+    },
+    "assets/images/image-027-053e8d91.png": {
+      "sha256": "262838bf6a0952c14457d02902674705a4904e9919f5b909177bb55142571c0f",
+      "bytes": 84016
+    },
+    "assets/images/image-028-6ef3b243.png": {
+      "sha256": "9b5aad6e1d9604fb93734981fed5c45aa1c4b3ccae25b98d66ee1261c411e54c",
+      "bytes": 58137
+    },
+    "assets/images/image-029-a7cae9d4.png": {
+      "sha256": "590a3ca910db3151f5bd769201b531e319e456c5e465ca80d1d4962a9d4d15a8",
+      "bytes": 98240
+    },
+    "assets/images/image-030-ed62534f.png": {
+      "sha256": "4ae674a684008b226b49695c544fce6d0ca0d14be86dde037a86858c2f6623a1",
+      "bytes": 77499
+    },
+    "assets/images/image-031-d6648a65.png": {
+      "sha256": "23bd39dc275ad523432d79bda59ef0ebb7e2a02abaee903bc4311ca084fba88f",
+      "bytes": 52594
+    },
+    "assets/images/image-032-de1df0fa.png": {
+      "sha256": "171b848dca63895e7c79240201b0a385f0e73304b7302e0a3b0432f6960f6c91",
+      "bytes": 41281
+    },
+    "assets/images/image-033-b4d2525f.png": {
+      "sha256": "d34739450e9993168a949464e5422ad665cee4652b79d9875606d121d6a62c45",
+      "bytes": 45845
+    },
+    "assets/images/image-034-7d00a8bb.png": {
+      "sha256": "0208fe6095270f6fafe3d435cc77064a9fa93e47875879f2e846da98c0ea9f37",
+      "bytes": 37518
+    },
+    "assets/images/image-035-b0224af9.png": {
+      "sha256": "6805504614d839ec9bea33ab7432e5a8982fd47a2de165bf07af16438eb52201",
+      "bytes": 46629
+    },
+    "assets/images/image-036-bf7f6ef5.png": {
+      "sha256": "b17bc363fc492bf73ec8a65c4b39295437426b49bc9f046446b2bcaa02101e0e",
+      "bytes": 33348
+    },
+    "assets/images/image-037-d89ba3ce.png": {
+      "sha256": "a6115243dec812a03ada25f3691e810b12aba4ece1325fdfab2f50a2acdc9923",
+      "bytes": 34887
+    },
+    "assets/images/image-038-9a31f5a2.png": {
+      "sha256": "300bfa5d308b27c010e4f9f5142488f91e9d628c21bc7105a273e222f486c7b5",
+      "bytes": 58239
+    },
+    "assets/images/image-039-1510f090.png": {
+      "sha256": "bf434ba59d3064f06308674dcdb33cc537f786eba9a3acd0d8c487cf2430a8be",
+      "bytes": 42906
+    },
+    "assets/images/image-040-988588bc.png": {
+      "sha256": "370348560bae5123dfcc9e31e956db20ab210add17b91ef8548051b410868d93",
+      "bytes": 38382
+    },
+    "assets/images/image-041-1858a6f3.png": {
+      "sha256": "00476433f64909d5aaa96c2c772f491176e3fec8da60265cbc30c79f16a3867b",
+      "bytes": 44255
+    },
+    "assets/images/image-042-1db49167.png": {
+      "sha256": "6e306f4d64048ca521fffe31a6943da91aa91fda5d92f1ab40269456758d43c6",
+      "bytes": 54027
+    },
+    "assets/images/image-043-57051539.png": {
+      "sha256": "c12f495d7526bac99312627acd7c104faf215079acd4b22b8425175846346956",
+      "bytes": 41793
+    },
+    "assets/images/image-044-e142f392.png": {
+      "sha256": "a8cac061b7ec4ad2cd093847c0393a8d39685bcaa3e00fc28ff8497892515da7",
+      "bytes": 54629
+    },
+    "assets/images/image-045-c5913c10.png": {
+      "sha256": "4144cedfa017face4b41ca56c89d38ad78c0bb720108c4e0ec1feca3623b852f",
+      "bytes": 50831
+    },
+    "assets/images/image-046-5cd054a2.png": {
+      "sha256": "003ac74a5aa748d38e9417ab121ff8da92f8d58015424020d4d5e2bf3de2c1cb",
+      "bytes": 49415
+    },
+    "assets/images/image-047-6964e8e9.png": {
+      "sha256": "3402ef1df9a8458e807667a8555f2592fc43f8c7ee56f85576c70efc6ca84b90",
+      "bytes": 49799
+    },
+    "assets/images/image-048-da904b6a.png": {
+      "sha256": "d2b1a0202075c383d7bfa590a3648025be65b88d77042c6b3ef6fd3c95687a37",
+      "bytes": 32155
+    },
+    "assets/images/image-049-34e69866.png": {
+      "sha256": "d8c39912cabdc048c11dfd6a98358183199262fc9b2d4681dddb776c15f2e9ce",
+      "bytes": 42731
+    },
+    "assets/images/image-050-230fab59.png": {
+      "sha256": "f7cce391331104965b60ca1238cc9247fc433800088ff4ad8a0428d21988ad8a",
+      "bytes": 55326
+    },
+    "assets/images/image-051-40e8b8d3.png": {
+      "sha256": "70b56a56ec374dad7ae8e11c416fb4c9c07278b565226253fd37cfcee5b88bd7",
+      "bytes": 44513
+    },
+    "assets/images/image-052-f031569e.png": {
+      "sha256": "fcd9b4f5fac86adf77915c40d5763f5323748626d5ec7e147f9fa957eb8ef3b3",
+      "bytes": 342984
+    },
+    "assets/images/image-053-563cf6d9.png": {
+      "sha256": "563cf6d9c4a6f039cc302330dcc0088fa778cbb3a8b456ea401785124c2a2856",
+      "bytes": 925780
+    },
+    "assets/images/image-054-968841fd.png": {
+      "sha256": "968841fd3359a0c97c9dd23a24ef93bc9cbc5504d2a05fe9bd5d1128c3f1fb59",
+      "bytes": 872197
+    },
+    "assets/images/image-055-0776e738.png": {
+      "sha256": "0776e7381bc4a8223384428ed198bbdd2dc00d6f4df54ac4025ab149729435c7",
+      "bytes": 991480
+    },
+    "assets/images/image-056-dbca5391.png": {
+      "sha256": "35736c527feefb5e1f4dc7416710cd242821212632bea2cf330b54e91fc88c8e",
+      "bytes": 478503
+    },
+    "assets/images/image-057-eb8278f2.png": {
+      "sha256": "17b370f05615ebe32b75ddcacb112d9278a7344321a01956301b4acfd6000f10",
+      "bytes": 454168
+    },
+    "assets/images/portal-lifetime/preflix-app-prem-screen.png": {
+      "sha256": "26777b10240f07765944083506b666ba0c572e1ce5d51537669f6d38d94a0744",
+      "bytes": 148151
+    },
+    "assets/images/portal-lifetime/preflix-feature-showcase.png": {
+      "sha256": "2ac0af158c6a533e9af892616b04c93d9738410a25992cc2f54b8475c04abd11",
+      "bytes": 306779
+    },
+    "assets/images/portal-lifetime/preflix-logo.png": {
+      "sha256": "8a8e23300100e56ec3de755dec7ed40f08dcf5e5512c43f89b7f5fc2ae777a8b",
+      "bytes": 377632
+    },
+    "assets/images/portal-lifetime/preflix-menu-digital.png": {
+      "sha256": "8b16f80a638dbd72c589baaa45c83c15fb0a35c3ff9bb388043c38bdcfe48425",
+      "bytes": 182105
+    },
+    "assets/images/portal-lifetime/preflix-menu-services.png": {
+      "sha256": "cfabbbfe9ad0f8b824ba284f03fe9e2d034bc03aad0322d8bb39f3faf2018818",
+      "bytes": 144085
+    },
+    "assets/images/preflix-app-prem-screen.png": {
+      "sha256": "26777b10240f07765944083506b666ba0c572e1ce5d51537669f6d38d94a0744",
+      "bytes": 148151
+    },
+    "assets/images/preflix-feature-showcase.png": {
+      "sha256": "2ac0af158c6a533e9af892616b04c93d9738410a25992cc2f54b8475c04abd11",
+      "bytes": 306779
+    },
+    "assets/images/preflix-logo.png": {
+      "sha256": "8a8e23300100e56ec3de755dec7ed40f08dcf5e5512c43f89b7f5fc2ae777a8b",
+      "bytes": 377632
+    },
+    "assets/images/preflix-menu-digital.png": {
+      "sha256": "8b16f80a638dbd72c589baaa45c83c15fb0a35c3ff9bb388043c38bdcfe48425",
+      "bytes": 182105
+    },
+    "assets/images/preflix-menu-services.png": {
+      "sha256": "cfabbbfe9ad0f8b824ba284f03fe9e2d034bc03aad0322d8bb39f3faf2018818",
+      "bytes": 144085
+    },
+    "assets/images/preflix-testimoni/proof-01.jpg": {
+      "sha256": "80f402120ad30ecf9c7e21adb00760b8e71d2c94be0220a521f6e8fd502ffd2d",
+      "bytes": 113942
+    },
+    "assets/images/preflix-testimoni/proof-02.jpg": {
+      "sha256": "599892d5bb344a21640c09003169c0a7639cf64dc96d78097c432e644f697322",
+      "bytes": 150511
+    },
+    "assets/images/preflix-testimoni/proof-03.jpg": {
+      "sha256": "70105010e1f3ded84babe0dc34427625505084f579e4d70bdff3dede1b7df7a2",
+      "bytes": 117628
+    },
+    "assets/images/preflix-testimoni/proof-04.jpg": {
+      "sha256": "c567d36391ecff752e41556464bb6be5cd66d5c795d30db9c8302862493ce22c",
+      "bytes": 145875
+    },
+    "assets/images/preflix-testimoni/proof-05.jpg": {
+      "sha256": "57e4ac4bf606b2ce299e0f842ac0a60da458733d5d29bf37c15d2c128e796310",
+      "bytes": 145447
+    },
+    "assets/images/preflix-testimoni/proof-06.jpg": {
+      "sha256": "d151a38d3fbff4f51292310562a179576b1963106f47deba34ccb323d2c9052e",
+      "bytes": 95370
+    },
+    "assets/images/preflix-testimoni/proof-07.jpg": {
+      "sha256": "bb3f4f08775390485444ba09991cf4f85e2819fc75af13fe0fcb1b2d2705a30a",
+      "bytes": 87969
+    },
+    "assets/images/preflix-testimoni/proof-08.jpg": {
+      "sha256": "f4054d033334bcb3b1a790b12065d04dc2b4eb6c37d1551e945cbff293c7b591",
+      "bytes": 95984
+    },
+    "assets/images/preflix-testimoni/proof-09.jpg": {
+      "sha256": "9d62e7d4829d079623fa7234035c7bffa9b6d46aab1b03a5dc61fd6cf58cdfaf",
+      "bytes": 81646
+    },
+    "assets/images/seabank-logo.jpg": {
+      "sha256": "b9e475892b578258ccd102d9ec17e3f6c2f0313552e79b02ca145a8aa0192b4a",
+      "bytes": 18080
+    },
+    "assets/images/zshopapps-logo-blue.png": {
+      "sha256": "f2097cd424b18a3b13fc7e8e41db54dd2e56d24ca8bfb8913fa0e547bddff988",
+      "bytes": 59312
+    },
+    "assets/js/zshopapps-21apps-100socials-sync.js": {
+      "sha256": "6519574be9bf66ded30e777d4b99cb23838cced591622f1c805989abc294baf0",
+      "bytes": 1550
+    },
+    "assets/js/zshopapps-android-music-request-script.js": {
+      "sha256": "2e05c11aa3ff4847cb5f17133ed5a9dcea6ec98891579379584ffcca64acba98",
+      "bytes": 5522
+    },
+    "assets/js/zshopapps-asset-recovery-script.js": {
+      "sha256": "cb3ee40fec4d8f9a5bc86e1a7e866905b270febe361172600aa53cdf3a23886c",
+      "bytes": 1162
+    },
+    "assets/js/zshopapps-cart-script.js": {
+      "sha256": "03e6969c4d2688f5bb79e8142e42e7965ddb0197d1430f5a2221901f7fbf68fe",
+      "bytes": 40296
+    },
+    "assets/js/zshopapps-core.js": {
+      "sha256": "2a312295ce0dab7153977ec03c96abc275684b1db2f83b171c8704621e466370",
+      "bytes": 35407
+    },
+    "assets/js/zshopapps-extension-06-runtime.js": {
+      "sha256": "c9583b5664435f56067b88108c2ab9148daf443b026deca21e1885c1f3fb081f",
+      "bytes": 39161
+    },
+    "assets/js/zshopapps-extension-2026-script.js": {
+      "sha256": "ca857390daf7f86edcaeb680c287f91aef66b98a806b5ce8a015a1feb617d579",
+      "bytes": 1442
+    },
+    "assets/js/zshopapps-full-playlist-script.js": {
+      "sha256": "fdd3b6ce5009a51c1ac95a5098ead0d8cb6b3bfbb5a4bad246a15a7cee07ae28",
+      "bytes": 13210
+    },
+    "assets/js/zshopapps-lifetime-portal-script.js": {
+      "sha256": "275979f09724f25b1914e5d51b864ff98124e7895d76f93522a0f3ec086623b5",
+      "bytes": 9686
+    },
+    "assets/js/zshopapps-mini-app-sync.js": {
+      "sha256": "d325c6228de072060d88ac6e98f557a89be940d30250e61b1ec6dcbc6515e276",
+      "bytes": 1018
+    },
+    "assets/js/zshopapps-music-cross-device-controller.js": {
+      "sha256": "3307796e75cf0a02f823a7066c5deb3a27f3f867780b4c123d8b2dc25ccbdfcc",
+      "bytes": 2072
+    },
+    "assets/js/zshopapps-music-pro-ui-script.js": {
+      "sha256": "f909e85bcce0f3ee020aa377c11fc8c34e40ddea48c4a08cf5f1341703cebb61",
+      "bytes": 3890
+    },
+    "assets/js/zshopapps-music-ui-vertical-resizable-script.js": {
+      "sha256": "534c8d3cf6862489c6027bbfdaa7dffa7479095d4acfc1cd8e5c0f3f8cccae17",
+      "bytes": 4202
+    },
+    "assets/js/zshopapps-preflix-lifetime-final-motion.js": {
+      "sha256": "9c68a602f8b6ebc5c951d1953d762593c86e042207ddd8011f721b11dd9f6897",
+      "bytes": 2138
+    },
+    "assets/js/zshopapps-preflix21-registration-guide-script.js": {
+      "sha256": "b1c0c77b3308925de4ce5615045bf9cbe1be063d05786c49c18c48f46bfc8346",
+      "bytes": 523
+    },
+    "assets/js/zshopapps-premium-boot-loader-script.js": {
+      "sha256": "a88372042be8ea2ddf91e3996dbfb87041b7868e98306855233f09cef5647344",
+      "bytes": 3886
+    },
+    "assets/js/zshopapps-purchase-completion-script.js": {
+      "sha256": "b95a140988847693a18fedcab165b3b85b356f1b90a21e7e1b8151fc95769d60",
+      "bytes": 3533
+    },
+    "assets/js/zshopapps-seabank-copy-runtime.js": {
+      "sha256": "7abd6c25a4155de1355ad676e118b564dd6e05dd9f85d84d6c9454e4b97e27f0",
+      "bytes": 914
+    },
+    "assets/js/zshopapps-sound-gate-script.js": {
+      "sha256": "e0df9120c22a4ad381d3536707333a15bafa3e5e932dc5807444c83cea6ef80d",
+      "bytes": 3084
+    },
+    "assets/js/zshopapps-testimoni-script.js": {
+      "sha256": "7e275f3176850d22e6fa7ecb62dc0410c44fbc6d8d59100ae225d17cdc19768e",
+      "bytes": 260
+    },
+    "assets/js/zshopapps-weather-sfx-script.js": {
+      "sha256": "9ceb54b5163346201f0949cda9ec881817e89d518aadfc5932aa955271d14566",
+      "bytes": 24532
+    },
+    "docs/superpowers/specs/2026-08-29-extension-06-naruto-commerce-design.md": {
+      "sha256": "1216581f5f1d51aaab2bac7136123ef175cf302a898fc0e490f61e3090202c15",
+      "bytes": 8485
+    },
+    "favicon.ico": {
+      "sha256": "9d72959c3659929f93d0d203cabb52e6deaa323513d0f60025dca5a233aa3502",
+      "bytes": 787
+    },
+    "index.html": {
+      "sha256": "88d8a32b1f63d2a892f1d23959cb16830b6661bb7b36301acf1ed8e4b307440c",
+      "bytes": 341367
+    },
+    "netlify.toml": {
+      "sha256": "b36f654945288d959a5d28921d1c31c7316c802c3e53fc7cfdb1195b75035cf3",
+      "bytes": 364
+    },
+    "robots.txt": {
+      "sha256": "4d44ec73370d201bdfd9d7d84e49bbf4df16be10367d26931767fa8728b0c25b",
+      "bytes": 77
+    },
+    "sitemap.xml": {
+      "sha256": "71204a2ef740321c9d865e79b879bdbf9b976da86efcea31798fd5748cc99b90",
+      "bytes": 251
+    },
+    "zshopapps-icon-192.png": {
+      "sha256": "fd3d68a1f8af1a3a4d4ce1d17c9c9efbcddc064b15c8df4f900d1e623f6f3cbb",
+      "bytes": 24913
+    },
+    "zshopapps-icon-32.png": {
+      "sha256": "cc660a20a6040acd49dd9f489bb794b7e1fd8e5f754d52c4c40d54303029983d",
+      "bytes": 1888
+    },
+    "zshopapps-icon-48.png": {
+      "sha256": "56d0edd10c9c6ac9d54bf0729e261e12ded749a6c4610d6d7f3319d4a988bbd4",
+      "bytes": 3319
+    },
+    "zshopapps-icon-512.png": {
+      "sha256": "caf576824f8db5715ea451c3b5447cb09c8ec0a0315a5c2ab72287081d1a317f",
+      "bytes": 83004
+    },
+    "zshopapps-icon-96.png": {
+      "sha256": "179e570db606b3314735a8346e674e1187be7a0a4599780abe94a073d501468b",
+      "bytes": 8354
+    },
+    "zshopapps-social-preview.png": {
+      "sha256": "5f8671f6a0f9279bc4aba80ebf801d7f791056f59dea305997dd5b423248a8fc",
+      "bytes": 106963
+    }
+  }
+}

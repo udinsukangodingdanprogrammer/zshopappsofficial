@@ -1,0 +1,11 @@
+ZSHOPAPPS UPDATE 2026-08-21
+
+1. 20 aplikasi premium: semua plan diberi unlimited=true dan stock=null.
+2. Preflix Lifetime: tetap max 1, tidak diubah menjadi unlimited.
+3. Extension 1 + 2: seluruh plan menjadi unlimited dan batas max-per-business dihapus.
+4. Cart lama otomatis dimigrasikan ke unlimited untuk 20 apps + extension.
+5. X diperbarui ke https://x.com/IjuddinPro33035
+6. Instagram diperbarui ke https://www.instagram.com/tokodigitalpremiumzshopapps?igsh=eGFpNjlibzYyaXQ0
+7. Meta title/description diperbarui untuk katalog 20 apps + Preflix + extension.
+8. netlify.toml ditambahkan untuk deployment statis Netlify.
+9. Testimoni pelanggan Extension 01 dan Extension 02 ditambahkan dari screenshot bukti redeem yang diberikan, lengkap dengan tampilan responsif dan klik untuk memperbesar.

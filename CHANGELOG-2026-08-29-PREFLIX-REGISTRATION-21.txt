@@ -1,0 +1,10 @@
+ZSHOPAPPS — PREFLIX REGISTRATION / PRODUCT #21 UPDATE — 2026-08-29
+
+1. Catalog now shows 21 total products: 20 premium apps + Preflix Lifetime.
+2. Preflix remains product number 21 with price Rp300.000 Lifetime/Permanen.
+3. Added visible 9-step "Cara Daftar Preflix" guide.
+4. Registration data: buyer/owner name, business/store name, Telegram display name, @username, business type, Telegram business purpose, and ownership confirmation.
+5. Telegram profile link (t.me/username) is generated automatically.
+6. Preflix QRIS button routes through the registration cart before payment.
+7. Registration data is included in Telegram order/paid messages.
+8. Security note: password, OTP, login code, and recovery password are never requested.

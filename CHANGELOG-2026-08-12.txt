@@ -1,0 +1,44 @@
+ZSHOPAPPS UPDATE 2026-08-12
+===========================
+1. Branding
+   - zshopappsofficialmurmerdigitalstore -> zshopappsofficialdigital
+   - Exclusive Digital Store -> Ekslusif Digital Store
+   - Loader title -> ZSHOPAPPS Premium
+   - Loader text -> Loading apps premium zshopappsofficialdigital
+   - Opening label -> VideoOpening ZSHOPAPPSDIGITAL
+   - Menghapus copy "Beli di toko kami / Murah meriah" dan wording murmer pada halaman utama.
+
+2. Katalog 20 aplikasi
+   - Nama produk diseragamkan.
+   - Harga/stok diisi sesuai data owner.
+   - Data yang tidak punya harga tidak ditebak; ditandai Hubungi Owner.
+   - Produk kosong memakai stok 0.
+
+3. Panduan pelanggan
+   - Sharing / Private / Individual-Official.
+   - Kegunaan + cara pakai 20 aplikasi.
+   - Peraturan, cara order, rekomendasi paket, dan catatan kepatuhan provider.
+
+4. Link alternatif
+   - https://udinsukangodingdanprogrammer.github.io/sosmedketiga/Sosmed56.html
+
+5. SEO
+   - Title/meta/OG/Twitter diperbarui.
+   - sitemap.xml lastmod 2026-08-12.
+
+Catatan data owner yang dipertahankan apa adanya:
+- Viu VIP "Private 200 Tahun" ditampilkan sesuai data yang diberikan owner.
+- HBO Max Ultimate Rp159.000 tidak diberi durasi karena durasi tidak diberikan; UI meminta konfirmasi owner.
+
+6. Update 2026-08-14
+   - Menghapus dialog dan video opening dari halaman.
+   - Menghapus seluruh pemicu opening otomatis dan tombol putar ulang di header.
+   - Loader tetap dipertahankan dan sekarang langsung membuka halaman utama.
+   - Menghapus MP4, poster khusus opening, dan entri terkait dari asset-manifest.json.
+   - sitemap.xml lastmod diperbarui menjadi 2026-08-14.
+
+7. Alight Motion unlimited + SEO 2026-08-14
+   - Mengubah stok Private 6 Bulan, Private 1 Tahun, dan 10 Akun • 1 Tahun menjadi unlimited eksplisit.
+   - Menghapus batas stok dari kontrol jumlah, keranjang, checkout, dan data keranjang lama Alight Motion.
+   - Memperbarui title, description, Open Graph, Twitter, H1, alt text, dan copy produk untuk Alight Motion Pro.
+   - Menambahkan Product JSON-LD Alight Motion dengan tiga offer IDR dan availability InStock.
